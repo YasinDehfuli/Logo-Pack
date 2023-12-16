@@ -10,6 +10,8 @@
 <img src="src/cover.jpg" width="800">
 </div>
 
+### Download
+
 <div align="center">
 
 |                                                   Download SVG                                                    |                                                   Download PNG                                                    |                                                   Download JPG                                                    |
